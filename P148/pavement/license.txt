@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pavement Scanned v1 (low poly PBR asset)
+* source:	https://sketchfab.com/3d-models/pavement-scanned-v1-low-poly-pbr-asset-c06416463a2e4ea0b63b17adffb72dc6
+* author:	CG Asset Library (https://sketchfab.com/cgassetlibrary)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pavement Scanned v1 (low poly PBR asset)" (https://sketchfab.com/3d-models/pavement-scanned-v1-low-poly-pbr-asset-c06416463a2e4ea0b63b17adffb72dc6) by CG Asset Library (https://sketchfab.com/cgassetlibrary) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
